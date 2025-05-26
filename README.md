@@ -79,4 +79,9 @@ Ce projet est partagé sous licence MIT pour usage pédagogique.
 
 ---
 
-📬 Contact : [LinkedIn de l’auteur](https://www.linkedin.com/in/w-steve-giovanni-tapsoba)
+📬 Contacts : 
+Pour toute collaboration ou opportunité, vous pouvez me contacter à :  
+📧 wendpanga.tapsoba@dauphine.eu  
+🔗 [Mon LinkedIn](https://www.linkedin.com/in/stevegiovannitapsoba)
+
+
