@@ -1,7 +1,7 @@
 
 # 📈 Modélisation prospective de la mortalité (1933–2021)
 
-Projet de fin d’année – Master Ingénierie Actuarielle  
+Projet de fin d’année – Master 1 Ingénierie Actuarielle  
 Université Paris-Dauphine – Campus de Tunis
 
 ## 🎯 Objectif
