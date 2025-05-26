@@ -68,7 +68,7 @@ mortality-forecasting/
 ├── data/                       # Données locales (vide, mais suivi avec .gitkeep)
 │   └── .gitkeep
 │
-├── visuals/                    # Graphiques (3D, QQ-plots, etc.) à inclure dans le README
+├── visuals/                    # Graphiques (3D, QQ-plots, etc.) 
 │   └── taux_projection_3D.png, qqplot_LC.png, ...
 
 ```
