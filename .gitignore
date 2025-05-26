@@ -1,0 +1,25 @@
+
+# Fichiers RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# Fichiers sensibles
+.Renviron
+*.rds
+*.rda
+*.RData
+
+# Données locales ou temporaires
+data/*
+!data/.gitkeep
+
+# Résultats générés
+*.png
+*.pdf
+*.html
+
+# Systèmes
+.DS_Store
+Thumbs.db
