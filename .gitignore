@@ -16,7 +16,7 @@ data/*
 !data/.gitkeep
 
 # Résultats générés
-*.png
+# *.png
 *.pdf
 *.html
 
