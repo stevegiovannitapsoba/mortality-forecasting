@@ -1,7 +1,7 @@
 
 # 📈 Modélisation prospective de la mortalité (1933–2021)
 
-Projet de fin d’année – Master Ingénierie Actuarielle  
+Projet de fin d’année – Master 1 Ingénierie Actuarielle  
 Université Paris-Dauphine – Campus de Tunis
 
 ## 🎯 Objectif
@@ -68,7 +68,7 @@ mortality-forecasting/
 ├── data/                       # Données locales (vide, mais suivi avec .gitkeep)
 │   └── .gitkeep
 │
-├── visuals/                    # Graphiques (3D, QQ-plots, etc.) à inclure dans le README
+├── visuals/                    # Graphiques (3D, QQ-plots, etc.) 
 │   └── taux_projection_3D.png, qqplot_LC.png, ...
 
 ```
@@ -79,4 +79,9 @@ Ce projet est partagé sous licence MIT pour usage pédagogique.
 
 ---
 
-📬 Contact : [LinkedIn de l’auteur](https://www.linkedin.com/in/w-steve-giovanni-tapsoba)
+📬 Contacts : 
+Pour toute collaboration ou opportunité, vous pouvez me contacter à :  
+📧 wendpanga.tapsoba@dauphine.eu  
+🔗 [Mon LinkedIn](https://www.linkedin.com/in/stevegiovannitapsoba)
+
+
